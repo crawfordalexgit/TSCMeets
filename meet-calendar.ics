@@ -7,8 +7,8 @@ X-WR-CALNAME:TSC Meets & Galas
 X-WR-TIMEZONE:Europe/London
 X-WR-CALDESC:Swimming competition calendar - This is for reminders only. Enter meets via Swim Club Manager.
 BEGIN:VEVENT
-UID:20260109143356-1@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-1@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260103
 DTEND;VALUE=DATE:20260105
 SUMMARY:KWSS LCCQ - L3
@@ -16,8 +16,8 @@ LOCATION:Medway Park - Gillingham - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 3-4 Jan\nVenue: Medway Park - Gillingham\nCourse: Short Course (25m Pool)\nLevel: L3\nTarget Squads: All Kent hopefuls\nCoach: Nick H\n\nMore information:\nhttps://uk.teamunify.com/team/kwss/page/home
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-2@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-2@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260117
 DTEND;VALUE=DATE:20260118
 SUMMARY:Kent Champs (800m) - L1
@@ -25,8 +25,8 @@ LOCATION:K2 Crawley - Long Course (50m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 17 Jan\nVenue: K2 Crawley\nCourse: Long Course (50m Pool)\nLevel: L1\nTarget Squads: Qualifying Times Only\nCoach: Nick H\n\nMore information:\nhttps://www.kentswimming.org/spage-swimming-championships62.html
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-3@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-3@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260118
 DTEND;VALUE=DATE:20260119
 SUMMARY:Tudor League Rd1 - L4/Team
@@ -34,8 +34,8 @@ LOCATION:Beckenham Spa - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 18 Jan\nVenue: Beckenham Spa\nCourse: Short Course (25m Pool)\nLevel: L4/Team\nTarget Squads: by invite (typically Gold+)\nCoach: Michele E\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-4@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-4@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260124
 DTEND;VALUE=DATE:20260126
 SUMMARY:Kent Champs (50m-400m) - L1
@@ -43,8 +43,8 @@ LOCATION:London Aquatic Center - Long Course (50m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 24-25 Jan\nVenue: London Aquatic Center\nCourse: Long Course (50m Pool)\nLevel: L1\nTarget Squads: Qualifying Times Only\nCoach: Nick H\n\nMore information:\nhttps://www.kentswimming.org/spage-swimming-championships62.html
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-5@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-5@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260202
 SUMMARY:Kent Champs (50m- 400m) - L1
@@ -52,8 +52,8 @@ LOCATION:London Aquatic Center - Long Course (50m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 31 Jan - 01  Feb\nVenue: London Aquatic Center\nCourse: Long Course (50m Pool)\nLevel: L1\nTarget Squads: Qualifying Times Only\nCoach: Nick H\n\nMore information:\nhttps://www.kentswimming.org/spage-swimming-championships62.html
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-6@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-6@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260207
 DTEND;VALUE=DATE:20260208
 SUMMARY:Kent Champs (1500m) - L1
@@ -61,8 +61,8 @@ LOCATION:K2 Crawley - Long Course (50m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 7 Feb\nVenue: K2 Crawley\nCourse: Long Course (50m Pool)\nLevel: L1\nTarget Squads: Qualifying Times Only\nCoach: Nick H\n\nMore information:\nhttps://www.kentswimming.org/spage-swimming-championships62.html
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-7@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-7@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260207
 DTEND;VALUE=DATE:20260208
 SUMMARY:Milliennim Legaue - Rd 1 - X
@@ -70,8 +70,8 @@ LOCATION:tbc - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 7th feb\nVenue: tbc\nCourse: Short Course (25m Pool)\nLevel: X\nTarget Squads: By Invite\nCoach: Simon B\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-8@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-8@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260214
 DTEND;VALUE=DATE:20260215
 SUMMARY:Tudor League Rd2 - L4/Team
@@ -79,8 +79,17 @@ LOCATION:Beckenham Spa - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 14 Feb\nVenue: Beckenham Spa\nCourse: Short Course (25m Pool)\nLevel: L4/Team\nTarget Squads: by invite (typically Gold+)\nCoach: Michele E\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-9@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-9@meetcalendar
+DTSTAMP:20260114T085149Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260316
+SUMMARY:Guildford City Level 1 Spring Open Meet - L1
+LOCATION:Surrey Sports Park - Long Course (50m Pool)
+DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 14 March - 15 March\nVenue: Surrey Sports Park\nCourse: Long Course (50m Pool)\nLevel: L1\nTarget Squads: Qualifying Times Only\nCoach: Nick H\n\nMore information:\nGuildford City Swimming ClubGCSC Level 1 Spring Open Meet – March 2026 - Guildford City Swimming Club
+END:VEVENT
+BEGIN:VEVENT
+UID:20260114085149-10@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260322
 SUMMARY:Kent Junior League Rd1 - L4/Team
@@ -88,8 +97,8 @@ LOCATION:tbc - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 21 March\nVenue: tbc\nCourse: Short Course (25m Pool)\nLevel: L4/Team\nTarget Squads: fastest 13/U swimmers\nCoach: Kirsty A\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-10@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-11@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260323
 SUMMARY:NUEL National Qualifer - L1
@@ -97,8 +106,8 @@ LOCATION:London Aquatic Center - Long Course (50m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 21-22 March\nVenue: London Aquatic Center\nCourse: Long Course (50m Pool)\nLevel: L1\nTarget Squads: Qualifying Times Only\nCoach: Nick H\n\nMore information:\nhttps://uk.gomotionapp.com/team/lrnuel/page/open-meets/nuel-sc-meets-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-11@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-12@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260330
 SUMMARY:RTWM Last Chance Regional Chaser - L3
@@ -106,8 +115,8 @@ LOCATION:St John - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 28 - 29 March\nVenue: St John\nCourse: Short Course (25m Pool)\nLevel: L3\nTarget Squads: by invite (typically Gold+)\nCoach: Not confimed to attend\n\nMore information:\nhttps://www.rtwmonson.org/page-rtw_monson_open_meet.html
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-12@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-13@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260331
 SUMMARY:London Legacy Meet - L1
@@ -115,8 +124,8 @@ LOCATION:London Aquatic Center - Long Course (50m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 28-30 March\nVenue: London Aquatic Center\nCourse: Long Course (50m Pool)\nLevel: L1\nTarget Squads: Qualifying Times Only\nCoach: Nick H\n\nMore information:\nhttps://www.hackneyanaconda.org/london-legacy-meet-2026
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-13@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-14@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260412
 SUMMARY:Tudor League Rd3 - L4/Team
@@ -124,8 +133,8 @@ LOCATION:tbc - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 11 April\nVenue: tbc\nCourse: Short Course (25m Pool)\nLevel: L4/Team\nTarget Squads: by invite (typically Gold+)\nCoach: Michele E\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-14@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-15@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260420
 SUMMARY:British Champs - L1
@@ -133,8 +142,8 @@ LOCATION:London Aquatic Center - Long Course (50m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 14-19 April\nVenue: London Aquatic Center\nCourse: Long Course (50m Pool)\nLevel: L1\nTarget Squads: Qualifying Times Only\nCoach: Michael or Nick\n\nMore information:\nhttps://www.britishswimming.org/events-and-tickets/aquatics-gb-swimming-championships-2026/#:~:text=The%202026%20Aquatics%20GB%20Swimming\,Centre%20across%2014th%2D19th%20April.
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-15@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-16@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260427
 SUMMARY:Age Group Regionals - L1
@@ -142,8 +151,8 @@ LOCATION:K2 Crawley - Long Course (50m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 25-26 April\nVenue: K2 Crawley\nCourse: Long Course (50m Pool)\nLevel: L1\nTarget Squads: Qualifying Times Only\nCoach: Nick Harris\n\nMore information:\nhttps://www.southeastswimming.org/swimming/long-course-championships-2025/
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-16@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-17@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260505
 SUMMARY:Youth Regionals - L1
@@ -151,8 +160,8 @@ LOCATION:Wycombe - Long Course (50m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 2-4 May\nVenue: Wycombe\nCourse: Long Course (50m Pool)\nLevel: L1\nTarget Squads: QT's Only\nCoach: Nick Harris\n\nMore information:\nhttps://www.southeastswimming.org/swimming/long-course-championships-2025/
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-17@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-18@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
 SUMMARY:Millennium League Rd2 - X
@@ -160,8 +169,8 @@ LOCATION:tbc - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 2 May\nVenue: tbc\nCourse: Short Course (25m Pool)\nLevel: X\nTarget Squads: By invite\nCoach: Simon B\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-18@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-19@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260511
 SUMMARY:Age Group Regionals - L1
@@ -169,8 +178,8 @@ LOCATION:Winchester - Long Course (50m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 9-10 May\nVenue: Winchester\nCourse: Long Course (50m Pool)\nLevel: L1\nTarget Squads: OT's Only\nCoach: Nick Harris\n\nMore information:\nhttps://www.southeastswimming.org/swimming/long-course-championships-2025/
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-19@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-20@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260511
 SUMMARY:Romford National Qualifer - L1
@@ -178,8 +187,8 @@ LOCATION:K2 Crawley - Long Course (50m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 9-10 May\nVenue: K2 Crawley\nCourse: Long Course (50m Pool)\nLevel: L1\nTarget Squads: Seeking National QT's\nCoach: Only attending if needed\n\nMore information:\nhttps://romfordtownswimmingclub.co.uk/2025/07/25/2025-26-competition-schedule/
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-20@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-21@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
 SUMMARY:Tudor League Rd4 - L4/Team
@@ -187,8 +196,8 @@ LOCATION:Beckenham Spa - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 30 May\nVenue: Beckenham Spa\nCourse: Short Course (25m Pool)\nLevel: L4/Team\nTarget Squads: by invite (typically Gold+)\nCoach: Michele E\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-21@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-22@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260604
 SUMMARY:Ton Primary School Gala - X
@@ -196,8 +205,8 @@ LOCATION:St Johns - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 3th June (WED)\nVenue: St Johns\nCourse: Short Course (25m Pool)\nLevel: X\nCoach: Michele E\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-22@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-23@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 SUMMARY:O'jays Duel Meet - L4/Team
@@ -205,8 +214,8 @@ LOCATION:Walnuts?? - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 5th June (Fri) ??\nVenue: Walnuts??\nCourse: Short Course (25m Pool)\nLevel: L4/Team\nTarget Squads: by invite (typically Gold+)\nCoach: All coaches\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-23@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-24@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260620
 DTEND;VALUE=DATE:20260621
 SUMMARY:Kent Junior League Rd2 - L4/Team
@@ -214,8 +223,8 @@ LOCATION: - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 20th June\nVenue: \nCourse: Short Course (25m Pool)\nLevel: L4/Team\nTarget Squads: fastest 13/U swimmers\nCoach: Kirsty A\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-24@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-25@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Brian Moon Fun Gala - X
@@ -223,8 +232,8 @@ LOCATION:Tonbridge Town Pool - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 26 June (Fri)\nVenue: Tonbridge Town Pool\nCourse: Short Course (25m Pool)\nLevel: X\nTarget Squads: ALL SWIMMERS LTS5/6+ (for Fun Gala)\nCoach: All coaches\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-25@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-26@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260628
 SUMMARY:Tudor League Rd5 - L4/Team
@@ -232,8 +241,8 @@ LOCATION:Beckenham Spa - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 27 June\nVenue: Beckenham Spa\nCourse: Short Course (25m Pool)\nLevel: L4/Team\nTarget Squads: by invite (typically Gold+)\nCoach: Michele E\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-26@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-27@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260628
 DTEND;VALUE=DATE:20260629
 SUMMARY:Millennium League Rd 3 - X
@@ -241,8 +250,8 @@ LOCATION:tbc - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 28 June\nVenue: tbc\nCourse: Short Course (25m Pool)\nLevel: X\nTarget Squads: By Invite\nCoach: Simon B\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-27@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-28@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
 SUMMARY:TSC Summer Holiday Festival of Swimming - L4/Team
@@ -250,8 +259,8 @@ LOCATION:Tonbridge Town Pool - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 19 July\nVenue: Tonbridge Town Pool\nCourse: Short Course (25m Pool)\nLevel: L4/Team\nTarget Squads: LTS to Gold Devpt.\nCoach: Michele E\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-28@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-29@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Tudor League Rd6 - L4/Team
@@ -259,8 +268,8 @@ LOCATION:Beckenham Spa - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 12 Sep\nVenue: Beckenham Spa\nCourse: Short Course (25m Pool)\nLevel: L4/Team\nTarget Squads: by invite (typically Gold+)\nCoach: Michele E\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-29@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-30@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:KJL - Rd 3 - L4/Team
@@ -268,8 +277,8 @@ LOCATION:tbc - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 19th Sep\nVenue: tbc\nCourse: Short Course (25m Pool)\nLevel: L4/Team\nTarget Squads: fastest 13/U swimmers\nCoach: Kirsty A\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-30@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-31@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
 SUMMARY:Liz Harltey Meet - L3
@@ -277,8 +286,8 @@ LOCATION:K2 Crawley - Long Course (50m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 19 - 20 Sep\nVenue: K2 Crawley\nCourse: Long Course (50m Pool)\nLevel: L3\nTarget Squads: by invite (typically Gold+)\nCoach: Nick H\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-31@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-32@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Milliennim Legaue  Cup - X
@@ -286,8 +295,8 @@ LOCATION:tbc - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 26 Sep\nVenue: tbc\nCourse: Short Course (25m Pool)\nLevel: X\nTarget Squads: By invite\nCoach: Simon B\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-32@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-33@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Club Champs - L4/Team
@@ -295,8 +304,8 @@ LOCATION:School Pool - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 8th Oct\nVenue: School Pool\nCourse: Short Course (25m Pool)\nLevel: L4/Team\nTarget Squads: All Squads\nCoach: All coaches\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-33@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-34@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:NASL - Rd 1 - L3
@@ -304,8 +313,8 @@ LOCATION:TBC - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 10 Oct\nVenue: TBC\nCourse: Short Course (25m Pool)\nLevel: L3\nTarget Squads: by invite (fastest swimmers)\nCoach: Nick H\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-34@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-35@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
 SUMMARY:TSC Halloween Festival of Swimming - L4/Team
@@ -313,8 +322,8 @@ LOCATION:St John's Twells - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: Sun 1st\nVenue: St John's Twells\nCourse: Short Course (25m Pool)\nLevel: L4/Team\nTarget Squads: By invite - LTS to Gold\nCoach: Kirsty A\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-35@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-36@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Club Champs - L4/Team
@@ -322,8 +331,8 @@ LOCATION:School Pool - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 5 Nov\nVenue: School Pool\nCourse: Short Course (25m Pool)\nLevel: L4/Team\nTarget Squads: All Squads\nCoach: All coaches\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-36@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-37@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:NASL - Rd 2 - L3
@@ -331,8 +340,8 @@ LOCATION:TBC - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 14 Nov\nVenue: TBC\nCourse: Short Course (25m Pool)\nLevel: L3\nTarget Squads: By invite (fastest swimmers)\nCoach: Nick H\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-37@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-38@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Club Champs - L4/Team
@@ -340,8 +349,8 @@ LOCATION:School Pool - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 22 Nov\nVenue: School Pool\nCourse: Short Course (25m Pool)\nLevel: L4/Team\nTarget Squads: All Squads\nCoach: All coaches\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-38@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-39@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Club Champs - L4/Team
@@ -349,8 +358,8 @@ LOCATION:School Pool - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 29 Nov\nVenue: School Pool\nCourse: Short Course (25m Pool)\nLevel: L4/Team\nTarget Squads: All Squads\nCoach: All coaches\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-39@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-40@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:NASL - Rd 3 - L3
@@ -358,8 +367,8 @@ LOCATION:TBC - Short Course (25m Pool)
 DESCRIPTION:*** IMPORTANT ***\nThis is a CALENDAR REMINDER only.\nThis does NOT confirm your entry to this gala.\n\nTo enter this meet use:\nhttps://app.swimclubmanager.co.uk/Users/My-Events.aspx\n\n==========================================\n\nMEET DETAILS:\n\nDate: 5 December\nVenue: TBC\nCourse: Short Course (25m Pool)\nLevel: L3\nTarget Squads: By invite (fastest swimmers)\nCoach: Nick H\n
 END:VEVENT
 BEGIN:VEVENT
-UID:20260109143356-40@meetcalendar
-DTSTAMP:20260109T143356Z
+UID:20260114085149-41@meetcalendar
+DTSTAMP:20260114T085149Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Club Champs - L4/Team
